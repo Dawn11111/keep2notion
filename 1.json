@@ -7,12 +7,12 @@
             "birthday": 963532800000,
             "_id": "5b2f0e28fe6e430883f71918"
         },
-        "id": "5b2f0e28fe6e430883f71918_9223370318665246430_tr",
+        "id": "5b2f0e28fe6e430883f71918_9223370318147400907_tr",
         "feel": 3,
         "calorie": 32,
         "duration": 265,
-        "startTime": 1718189257871,
-        "endTime": 1718189529377,
+        "startTime": 1718707103573,
+        "endTime": 1718707374900,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 123.0,
-            "maxHeartRate": 132,
+            "heartRates": "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",
+            "averageHeartRate": 124.0,
+            "maxHeartRate": 137,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -56,7 +56,7 @@
         },
         "planId": "5d5f95c5e7ea5d12d3af38e2",
         "workoutId": "5d5e811be7ea5d12d3af1831",
-        "workoutFinishTimes": 51,
+        "workoutFinishTimes": 52,
         "workoutName": "芭蕾美体肩颈紧致 · 王诗意Fit舞蹈",
         "workoutSource": null,
         "scheduleName": null,
