@@ -7,14 +7,14 @@
             "birthday": 963532800000,
             "_id": "5b2f0e28fe6e430883f71918"
         },
-        "id": "5b2f0e28fe6e430883f71918_9223370318147400907_tr",
+        "id": "5b2f0e28fe6e430883f71918_9223370317283911958_tr",
         "feel": 3,
-        "calorie": 32,
-        "duration": 265,
-        "startTime": 1718707103573,
-        "endTime": 1718707374900,
+        "calorie": 120,
+        "duration": 872,
+        "startTime": 1719569978172,
+        "endTime": 1719570863849,
         "type": "training",
-        "subtype": "normal",
+        "subtype": "drill",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -35,18 +35,7 @@
         "doubtfulTips": "",
         "doubtfulScore": 0.0,
         "flags": [],
-        "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 124.0,
-            "maxHeartRate": 137,
-            "wearableDevices": [
-                {
-                    "macAddress": null,
-                    "name": "Apple Watch Series 9",
-                    "deviceType": "appleWatch"
-                }
-            ]
-        },
+        "heartRate": null,
         "vendor": {
             "source": "Keep",
             "manufacturer": null,
@@ -54,17 +43,17 @@
             "deviceModel": null,
             "vendorRecordId": null
         },
-        "planId": "5d5f95c5e7ea5d12d3af38e2",
-        "workoutId": "5d5e811be7ea5d12d3af1831",
-        "workoutFinishTimes": 52,
-        "workoutName": "芭蕾美体肩颈紧致 · 王诗意Fit舞蹈",
+        "planId": "5f394354853f5c0947ad46f6",
+        "workoutId": "5f394354853f5c0947ad46f7",
+        "workoutFinishTimes": 36,
+        "workoutName": "帕梅拉15分钟复古有氧舞蹈操·新手友好",
         "workoutSource": null,
         "scheduleName": null,
         "status": 20,
         "feedback": null,
         "feedbacks": null,
         "playType": "multiVideo",
-        "dataType": "ballet",
+        "dataType": "drill",
         "badgeAchievementCard": null,
         "trainingCourseType": "plan",
         "trainingSource": "others",
@@ -72,7 +61,7 @@
         "exerciseCount": 0,
         "exerciseFinishTimes": 0,
         "exerciseName": null,
-        "courseSchema": "keep://plans/5d5f95c5e7ea5d12d3af38e2",
+        "courseSchema": "keep://plans/5f394354853f5c0947ad46f6",
         "gymInfo": null,
         "kitTofRes": null,
         "kitPuncheurInfo": null
