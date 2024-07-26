@@ -7,14 +7,14 @@
             "birthday": 963532800000,
             "_id": "5b2f0e28fe6e430883f71918"
         },
-        "id": "5b2f0e28fe6e430883f71918_9223370316074821219_tr",
+        "id": "5b2f0e28fe6e430883f71918_9223370314950594126_tr",
         "feel": 3,
-        "calorie": 122,
-        "duration": 872,
-        "startTime": 1720779068881,
-        "endTime": 1720779954588,
+        "calorie": 44,
+        "duration": 396,
+        "startTime": 1721903755472,
+        "endTime": 1721904181681,
         "type": "training",
-        "subtype": "drill",
+        "subtype": "normal",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -35,7 +35,18 @@
         "doubtfulTips": "",
         "doubtfulScore": 0.0,
         "flags": [],
-        "heartRate": null,
+        "heartRate": {
+            "heartRates": "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",
+            "averageHeartRate": 119.0,
+            "maxHeartRate": 130,
+            "wearableDevices": [
+                {
+                    "macAddress": null,
+                    "name": "Apple Watch Series 9",
+                    "deviceType": "appleWatch"
+                }
+            ]
+        },
         "vendor": {
             "source": "Keep",
             "manufacturer": null,
@@ -43,17 +54,17 @@
             "deviceModel": null,
             "vendorRecordId": null
         },
-        "planId": "5f394354853f5c0947ad46f6",
-        "workoutId": "5f394354853f5c0947ad46f7",
-        "workoutFinishTimes": 40,
-        "workoutName": "帕梅拉15分钟复古有氧舞蹈操·新手友好",
+        "planId": "6151aba21310a35452840685",
+        "workoutId": "6151aba21310a35452840686",
+        "workoutFinishTimes": 30,
+        "workoutName": "「体态大师」螺旋直腿女王，练就直腿长腿",
         "workoutSource": null,
         "scheduleName": null,
         "status": 20,
         "feedback": null,
         "feedbacks": null,
         "playType": "multiVideo",
-        "dataType": "drill",
+        "dataType": "equipmentFunctionalTraining",
         "badgeAchievementCard": null,
         "trainingCourseType": "plan",
         "trainingSource": "others",
@@ -61,7 +72,7 @@
         "exerciseCount": 0,
         "exerciseFinishTimes": 0,
         "exerciseName": null,
-        "courseSchema": "keep://plans/5f394354853f5c0947ad46f6",
+        "courseSchema": "keep://plans/6151aba21310a35452840685",
         "gymInfo": null,
         "kitTofRes": null,
         "kitPuncheurInfo": null
